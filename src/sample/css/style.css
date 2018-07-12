@@ -1,0 +1,19 @@
+#btn1 {
+    -fx-font 14px "Serif";
+    -fx-padding: 2px;
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+
+#btn1: hover{
+    -fx-font 14px "Serif";
+    -fx-padding: 2px;
+    -fx-background-color: red;
+    -fx-text-fill: black;
+}
+#textArea .content {
+    -fx-background-image: url("/sample/css/background.jpg");
+}
+#textArea{
+     -fx-text-fill: blue;
+}
